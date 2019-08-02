@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "How to Train Your Ubuntu",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu eros, interdum at mi a, dignissim molestie eros. Donec commodo dictum ultrices. Maecenas ullamcorper, neque sed cursus imperdiet.",
+      "created_at": "2019-07-16T10:09:36.491Z"
+    },
+    {
+      "id": 2,
+      "title": "How to Axios 101",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu eros, interdum at mi a, dignissim molestie eros. Donec commodo dictum ultrices. Maecenas ullamcorper, neque sed cursus imperdiet.\n",
+      "created_at": "2019-07-16T10:41:20.059Z"
+    },
+    {
+      "id": 3,
+      "title": "How to Swim",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu eros, interdum at mi a, dignissim molestie eros. Donec commodo dictum ultrices. Maecenas ullamcorper, neque sed cursus imperdiet.\n",
+      "created_at": "2019-07-16T11:19:10.596Z"
+    },
+    {
+      "id": 4,
+      "title": "Draw some art",
+      "content": "Lorem ipsum",
+      "created_at": "2019-07-16T11:20:21.727Z"
+    },
+    {
+      "id": 5,
+      "title": "Eat some food",
+      "content": "Lorem ipsum",
+      "created_at": "2019-07-16T11:27:02.856Z"
+    },
+    {
+      "id": 6,
+      "title": "Add new list",
+      "content": "Lorem ipsum",
+      "created_at": "2019-07-16T11:52:03.896Z"
+    }
+  ]
+}
